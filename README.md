@@ -1,7 +1,9 @@
 ﻿## Automatic Fish Feeder
 
 
-The goal of this project was to make improvements to an existing market product and make it more marketable. This was an *individual project* carried out for the *Semester 4 Module EN2160 - Electronic Design Realization.*
+The goal of this project was to make improvements to an existing market product and make it more marketable. 
+
+This was an *individual project* carried out for the *Semester 4 Module EN2160 - Electronic Design Realization.*
 
 The product that was implemented was an automatic fish feeder. The **improvements** and **extra features** that were incorporated to set it apart from existing products are as follows,
 - ***Simple User Interface and Controls*** – Upon market research it was apparent that most of the existing products had heavily cluttered interfaces and control panels. Simplification of the user interface and hence improving the user experience was the biggest focus of this product.
