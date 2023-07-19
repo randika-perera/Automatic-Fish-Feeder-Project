@@ -6,8 +6,7 @@ The goal of this project was to make improvements to an existing market product 
 This was an *individual project* carried out for the *Semester 4 Module EN2160 - Electronic Design Realization.*
 
 
-The product that was implemented was an automatic fish feeder. 
-
+The product that was implemented was an automatic fish feeder. </br>
 The **improvements** and **extra features** that were incorporated to set it apart from existing products are as follows,
 - ***Simple User Interface and Controls*** – Upon market research it was apparent that most of the existing products had heavily cluttered interfaces and control panels. Simplification of the user interface and hence improving the user experience was the biggest focus of this product.
 - ***Mountable on both sides*** – This was designed to be mounted on either sides of a fish tank by incorporating replicated indicators and controls on 2 sides.
