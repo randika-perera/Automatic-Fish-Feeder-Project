@@ -17,8 +17,10 @@ The project involved designing the circuit from scratch according to the set req
 Software tools including *VSCode*, *Arduino IDE*, *Proteus Design Suite*, *Altium Designer* and *SolidWorks* were utilized.
 
 The functional block diagram of the product is given below,
+
 ![block_diagram](https://github.com/randika-perera/Automatic-Fish-Feeder-Project/assets/129817316/da463935-b114-474a-ba9b-b82bae68271a)
 
 A photo of the final product is given below,
+
 ![Photo](https://github.com/randika-perera/Automatic-Fish-Feeder-Project/assets/129817316/43f3dfde-93e8-4eec-8a29-03becf230b77)
 
